@@ -4,4 +4,4 @@ This is my 1st version control.
 3) File status life cycle unmodified to modified study.
 
 
-4) Studying skipping staging area.
+4) Studying skipping staging area.asfggfaewffwefw
