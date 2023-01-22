@@ -1,0 +1,7 @@
+This is my 1st version control.
+2) Here I am doing 2nd commit.
+22 Jan 2023
+3) File status life cycle unmodified to modified study.
+
+
+4) Studying skipping staging area.
